@@ -7,7 +7,7 @@ POE P/D 장치의 전원 및 데이터송신모듈 제작 프로젝트<br>
 
 <img src="./img/시스템 구성.png" width="800px" title="시스템구성"/>
 
-<img src="./img/POE회로.png" width="1000px"title="POE회로"/>
+<img src="./img/POE회로.png" width="1000px" title="POE회로"/>
 
 ## ⚙️ 개발환경
 
